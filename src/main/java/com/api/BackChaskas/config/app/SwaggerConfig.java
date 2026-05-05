@@ -13,14 +13,14 @@ import org.springframework.http.HttpHeaders;
 
 @OpenAPIDefinition(
         info = @Info(
-                title = "API CLUBES",
-                description = "Our app provides a concise listing of football team names",
+                title = "API CHASKAS",
+                description = "Our app provides a endpoints for system POS & ECCOMERCE",
                 termsOfService = "www.unprogramadornace.com/terminos_y_condiciones",
                 version = "1.0.0",
                 contact = @Contact(
-                        name = "Santiago Perez",
+                        name = "Armando y Sofi",
                         url = "https://unprogramadornace.com",
-                        email = "santy@mail.com"
+                        email = "sandovalsantanajosearmando@gmail.com"
                 ),
                 license = @License(
                         name = "Standard Software Use License for UnProgramadorNace",
